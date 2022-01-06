@@ -1,7 +1,7 @@
 {
-  "TOKEN": "ODE0Mzk4NDkxMjg3NzQ4NjA4.YDdRsw.em38pg4RkfDU7Yyz-A_OXDSl3wE",
-  "PREFIX": "m!",
-  "approveemoji": "✅",
-  "denyemoji": "🚫",
-  "erroremoji": "️❗"
+  "TOKEN": "Insert Your Bot Token Here",
+  "PREFIX": "Insert Your Bot Prefix Here",
+  "approveemoji": "✅", //DONOT CHANGEE THIS
+  "denyemoji": "🚫", //DO NOT CHANGE THIS
+  "erroremoji": "️❗" //DO NOT CHANGE THIS
 }
