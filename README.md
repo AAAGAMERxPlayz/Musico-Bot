@@ -32,4 +32,4 @@ If you are making a video of it, make sure to give me credit.
 Contributions are always welcome.
 
 # Common Errors:
-While using `m!lyrics` command and `m!nowplaying` command, you get "There is no lyrics for the song" and "There was an error executing that command" error respectively. It is because of either codeing error or api error (IDK). This is being fixed.
+While using `m!lyrics` command and `m!nowplaying` command, you get "There is no lyrics for the song" and "There was an error executing that command" error respectively. It is because of either codeing error or api error (IDK). This is being fixed. If you can fix it, kindly fix it and dm me. I will be most thankfull. I will also give you credit.
